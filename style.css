@@ -22,7 +22,7 @@ body, html {
 }
 
 .navbar {
-    
+    position:fixed;
      top: 0;
     height: 20%;
     width: 100%;
